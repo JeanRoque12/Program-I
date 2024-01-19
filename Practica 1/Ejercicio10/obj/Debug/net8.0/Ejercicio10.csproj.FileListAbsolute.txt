@@ -1,0 +1,14 @@
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\bin\Debug\net8.0\Ejercicio10.exe
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\bin\Debug\net8.0\Ejercicio10.deps.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\bin\Debug\net8.0\Ejercicio10.runtimeconfig.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\bin\Debug\net8.0\Ejercicio10.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\bin\Debug\net8.0\Ejercicio10.pdb
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\obj\Debug\net8.0\Ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\obj\Debug\net8.0\Ejercicio10.AssemblyInfoInputs.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\obj\Debug\net8.0\Ejercicio10.AssemblyInfo.cs
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\obj\Debug\net8.0\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\obj\Debug\net8.0\Ejercicio10.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\obj\Debug\net8.0\refint\Ejercicio10.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\obj\Debug\net8.0\Ejercicio10.pdb
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\obj\Debug\net8.0\Ejercicio10.genruntimeconfig.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica 1\Ejercicio10\obj\Debug\net8.0\ref\Ejercicio10.dll

@@ -1,0 +1,15 @@
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\bin\Debug\net8.0\Ejercicio de Arreglos.exe
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\bin\Debug\net8.0\Ejercicio de Arreglos.deps.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\bin\Debug\net8.0\Ejercicio de Arreglos.runtimeconfig.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\bin\Debug\net8.0\Ejercicio de Arreglos.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\bin\Debug\net8.0\Ejercicio de Arreglos.pdb
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\obj\Debug\net8.0\Ejercicio de Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\obj\Debug\net8.0\Ejercicio de Arreglos.AssemblyInfoInputs.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\obj\Debug\net8.0\Ejercicio de Arreglos.AssemblyInfo.cs
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\obj\Debug\net8.0\Ejercicio de Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\obj\Debug\net8.0\Ejercicio de Arreglos.sourcelink.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\obj\Debug\net8.0\Ejercicio de Arreglos.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\obj\Debug\net8.0\refint\Ejercicio de Arreglos.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\obj\Debug\net8.0\Ejercicio de Arreglos.pdb
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\obj\Debug\net8.0\Ejercicio de Arreglos.genruntimeconfig.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Ejercicio de Arreglos\obj\Debug\net8.0\ref\Ejercicio de Arreglos.dll

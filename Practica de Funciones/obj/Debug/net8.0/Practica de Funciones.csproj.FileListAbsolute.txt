@@ -1,0 +1,15 @@
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\bin\Debug\net8.0\Practica de Funciones.exe
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\bin\Debug\net8.0\Practica de Funciones.deps.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\bin\Debug\net8.0\Practica de Funciones.runtimeconfig.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\bin\Debug\net8.0\Practica de Funciones.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\bin\Debug\net8.0\Practica de Funciones.pdb
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\obj\Debug\net8.0\Practica de Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\obj\Debug\net8.0\Practica de Funciones.AssemblyInfoInputs.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\obj\Debug\net8.0\Practica de Funciones.AssemblyInfo.cs
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\obj\Debug\net8.0\Practica de Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\obj\Debug\net8.0\Practica de Funciones.sourcelink.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\obj\Debug\net8.0\Practica de Funciones.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\obj\Debug\net8.0\refint\Practica de Funciones.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\obj\Debug\net8.0\Practica de Funciones.pdb
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\obj\Debug\net8.0\Practica de Funciones.genruntimeconfig.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Practica de Funciones\obj\Debug\net8.0\ref\Practica de Funciones.dll

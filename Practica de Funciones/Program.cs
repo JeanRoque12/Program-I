@@ -9,4 +9,7 @@
 
 Console.WriteLine("Ingrese un ano: ");
 int num = Convert.ToInt16(Console.ReadLine());
+if (Bisiesto(num) == null) {
+    Console.WriteLine($"{num}")
+})
 Console.WriteLine(Bisiesto(num));

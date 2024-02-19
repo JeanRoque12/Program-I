@@ -7,11 +7,11 @@ static string? IsMultiple(int num1, int num2) {
     }
     return null;
 }
+
 static void Print(string? ok){
     if (ok == null) {
         return;
-    }
-    else {
+    } else {
         Console.WriteLine(ok);
     }
 }
@@ -30,7 +30,6 @@ try
         Print(IsMultiple(dig3, dig1));
         Print(IsMultiple(dig2, dig3));
         Print(IsMultiple(dig3, dig2));
-
         }
     else if (num < 0) {
         Console.WriteLine("Este numero es negativo.");

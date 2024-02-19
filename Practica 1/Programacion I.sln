@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica de Funciones", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaDeFuncionesAritmeticas", "..\PracticaDeFuncionesAritmeticas\PracticaDeFuncionesAritmeticas.csproj", "{EEB37EDF-DD68-4462-BF9C-2B8DD58E5150}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio de Arreglos", "..\Ejercicio de Arreglos\Ejercicio de Arreglos.csproj", "{889C80BE-C315-4AAC-8C94-89928EFDD251}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{EEB37EDF-DD68-4462-BF9C-2B8DD58E5150}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEB37EDF-DD68-4462-BF9C-2B8DD58E5150}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEB37EDF-DD68-4462-BF9C-2B8DD58E5150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889C80BE-C315-4AAC-8C94-89928EFDD251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889C80BE-C315-4AAC-8C94-89928EFDD251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889C80BE-C315-4AAC-8C94-89928EFDD251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889C80BE-C315-4AAC-8C94-89928EFDD251}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaDeFuncionesAritmeti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio de Arreglos", "..\Ejercicio de Arreglos\Ejercicio de Arreglos.csproj", "{889C80BE-C315-4AAC-8C94-89928EFDD251}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioDeClasesPOO", "EjercicioDeClasesPOO\EjercicioDeClasesPOO.csproj", "{FE12FDC0-B866-4A25-A9A2-BD1C1104BACF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{889C80BE-C315-4AAC-8C94-89928EFDD251}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{889C80BE-C315-4AAC-8C94-89928EFDD251}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{889C80BE-C315-4AAC-8C94-89928EFDD251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE12FDC0-B866-4A25-A9A2-BD1C1104BACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE12FDC0-B866-4A25-A9A2-BD1C1104BACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE12FDC0-B866-4A25-A9A2-BD1C1104BACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE12FDC0-B866-4A25-A9A2-BD1C1104BACF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

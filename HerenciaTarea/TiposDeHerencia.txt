@@ -1,0 +1,24 @@
+La herencia en la programación orientada a objetos es un mecanismo en el 
+cual una clase permite "heredar" las características (atributos y metodos)
+de otra clase. Con "heredar", se refiere a que la clase obtiene las 
+variables y metodos que tiene la clase "padre". Con este mecanismo, uno
+puede crear cases basadas de unas ya existentes a fin de reutilizar el
+codigo. Un clase de la cual se hereda se le llama "superclase" o "clase base" 
+mientras la clase que hereda se le puede llamar "subclase" o "clase 
+derivada".  La herencia es importante porque permite la reutilizacion de 
+codigo y simplifica el diseño de programas complejos. En lugar de crear 
+nuevos objetos desde cero, los desarrolladores pueden crear nuevos objetos 
+a partir de objetos existentes utilizando la herencia.
+
+•Tipos de Herencia:
+    ○ Herencia Simple o Única: donde las subclases heredan las características 
+    de solo una superclase.
+    ○ Herencia Multinivel: una clase derivada herederá una clase base y,
+    además, la clase derivada también actuará como la clase base de otra
+    clase.
+    ○ Herencia Jerárquica: una clase sirve como una superclase (clase base) 
+    para más de una sublclase.
+    ○ Herencia Múltiple: una clase puede tener más de una superclase y 
+    heredar características de todas las clases principales.
+    ○ Herencia Híbrida: es una mezcla de dos o más tipos de herencia ya 
+    mencionadas.

@@ -1,0 +1,15 @@
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\bin\Debug\net8.0\Viaje en Bus.exe
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\bin\Debug\net8.0\Viaje en Bus.deps.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\bin\Debug\net8.0\Viaje en Bus.runtimeconfig.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\bin\Debug\net8.0\Viaje en Bus.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\bin\Debug\net8.0\Viaje en Bus.pdb
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\obj\Debug\net8.0\Viaje en Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\obj\Debug\net8.0\Viaje en Bus.AssemblyInfoInputs.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\obj\Debug\net8.0\Viaje en Bus.AssemblyInfo.cs
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\obj\Debug\net8.0\Viaje en Bus.csproj.CoreCompileInputs.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\obj\Debug\net8.0\Viaje en Bus.sourcelink.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\obj\Debug\net8.0\Viaje en Bus.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\obj\Debug\net8.0\refint\Viaje en Bus.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\obj\Debug\net8.0\Viaje en Bus.pdb
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\obj\Debug\net8.0\Viaje en Bus.genruntimeconfig.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Bus\Viaje en Bus\obj\Debug\net8.0\ref\Viaje en Bus.dll

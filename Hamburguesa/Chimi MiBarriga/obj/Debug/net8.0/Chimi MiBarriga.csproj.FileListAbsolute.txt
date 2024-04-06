@@ -1,0 +1,15 @@
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\bin\Debug\net8.0\Chimi MiBarriga.exe
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\bin\Debug\net8.0\Chimi MiBarriga.deps.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\bin\Debug\net8.0\Chimi MiBarriga.runtimeconfig.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\bin\Debug\net8.0\Chimi MiBarriga.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\bin\Debug\net8.0\Chimi MiBarriga.pdb
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\obj\Debug\net8.0\Chimi MiBarriga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\obj\Debug\net8.0\Chimi MiBarriga.AssemblyInfoInputs.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\obj\Debug\net8.0\Chimi MiBarriga.AssemblyInfo.cs
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\obj\Debug\net8.0\Chimi MiBarriga.csproj.CoreCompileInputs.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\obj\Debug\net8.0\Chimi MiBarriga.sourcelink.json
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\obj\Debug\net8.0\Chimi MiBarriga.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\obj\Debug\net8.0\refint\Chimi MiBarriga.dll
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\obj\Debug\net8.0\Chimi MiBarriga.pdb
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\obj\Debug\net8.0\Chimi MiBarriga.genruntimeconfig.cache
+C:\Users\Jean R. Castillo\Desktop\Programacion I\Hamburguesa\Chimi MiBarriga\obj\Debug\net8.0\ref\Chimi MiBarriga.dll
